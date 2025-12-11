@@ -1,0 +1,4 @@
+AuthName "Acces Restreint"
+AuthType Basic
+AuthUserFile /home/noha/www/.htpasswd
+Require valid-user
