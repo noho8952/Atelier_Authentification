@@ -1,35 +1,3 @@
-Noha
-nonoo_18
-En ligne
-
-Noha — 12:09
-CACA
-Not.Reaper — 12:09
-name: Industrialisation continue sur le serveur Alwaysdata 
-on: push
-jobs:
-  Connexion:
-    runs-on: ubuntu-latest
-    steps:
-Afficher plus
-yml.txt
-2 Ko
-atelier1/.htaccess
-AuthName "Acces Restreint"
-AuthType Basic
-AuthUserFile /home/evrane/www/.htpasswd
-Require valid-user
-https://hellotools.org/fr/generer-crypter-mot-de-passe-pour-fichier-htpasswd
-Crypter générer mot de passe pour fichier .htpasswd
-Cryptez facilement vos mots de passe pour .htpasswd en ligne avec notre outil gratuit de Cryptage de mot passe. Générateur de htpasswd. Essayez-le maintenant !
-Not.Reaper — 12:20
-https://evrane.alwaysdata.net/
-AuthName "Acces Restreint"
-AuthType Basic
-AuthUserFile /home/evrane/www/atelier1/.htpasswd
-Require valid-user
-admin:$2y$12$MCMhGXdrSkP/Y01/roWzN.bvEI/g4HeuiJuSZJluRk9FT9RGyS6xS
-Not.Reaper — 13:12
 <?php
 // Démarrer la session PHP pour stocker l'état de connexion de l'utilisateur
 session_start();
